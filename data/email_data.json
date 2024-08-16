@@ -1,0 +1,36 @@
+{
+  "valid": [
+    "q@a.com",
+    "qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq@a.com",
+    "q@aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com",
+    "aq@a.ru",
+    "Q@a.com",
+    "0@a.com",
+    "_@a.com",
+    "-@a.com",
+    "q.@.com",
+    "q@a.Com",
+    "q@A.com",
+    "q@0.com",
+    "q@-.com"
+  ],
+  "invalid": [
+    "%@a.com",
+    "q@a.%om",
+    "@a.com",
+    "q@ぁ.com",
+    "q @a.com",
+    "q@a. com",
+    "q@-a.com",
+    "q@a-.com",
+    "q@aqa.r",
+    ".@qa.com",
+    "aqqa.ru",
+    "aqa@aru",
+    "@aqa.ru",
+    "q@aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com",
+    "qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq@a.com",
+    "q@.com"
+  ]
+}
+
